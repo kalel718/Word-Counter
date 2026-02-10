@@ -40,7 +40,7 @@ This project recreates the logic of a classic Python word‑counting script, but
 
 ## 📸 Preview
 
-Paste text → click **Count Words** → see instant results.
+<iframe src="https://scribehow.com/embed/Codepen_Workflow__xxemvT76TrGaViPJIhdATQ?as=video" width="100%" height="800" allow="fullscreen" style="aspect-ratio: 16 / 12; border: 0; min-height: 480px"></iframe>
 
 ---
 
