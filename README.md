@@ -40,6 +40,13 @@ This project recreates the logic of a classic Python word‑counting script, but
 
 ## 📸 Preview
 
+<img width="1541" height="958" alt="image" src="https://github.com/user-attachments/assets/340b7f62-ba88-4f96-a077-9feb6f8f9c32" />
+
+<img width="1541" height="958" alt="image" src="https://github.com/user-attachments/assets/4560a4b0-c275-45c1-99ce-be33f10ac619" />
+
+<img width="1541" height="958" alt="image" src="https://github.com/user-attachments/assets/92a948fe-90f5-4623-9511-841473ea3578" />
+
+
 "https://scribehow.com/embed/Codepen_Workflow__xxemvT76TrGaViPJIhdATQ?as=video" 
 
 https://codepen.io/Mark-VLOG-Kennedy/pen/XJKoKzx
