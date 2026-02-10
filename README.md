@@ -41,6 +41,8 @@ This project recreates the logic of a classic Python word‑counting script, but
 ## 📸 Preview
 
 "https://scribehow.com/embed/Codepen_Workflow__xxemvT76TrGaViPJIhdATQ?as=video" 
+
+https://codepen.io/Mark-VLOG-Kennedy/pen/XJKoKzx
 ---
 
 ## 🛠️ Technologies Used
